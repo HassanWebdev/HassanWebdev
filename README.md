@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://hassanraza.vercel.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="font-size: 2em;">
+  </a>
+</div>
+
 # 💫 About Me:
 
 🔭 I'm currently working on **Full Stack Web Development**<br>
@@ -30,4 +36,8 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=HassanWebde# 💫 
+![](https://github-contributor-stats.vercel.app/api?username=HassanWebdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=HassanWebdev&icon=5&color=12)
