@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://hassanraza.vercel.app/" style="text-decoration: none;">
+  <a href="https://hassan-raza.tech/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="font-size: 2em;">
   </a>
 </div>
